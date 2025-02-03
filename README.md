@@ -1,1 +1,1 @@
-This is a collection of my sports analytics projects.
+This will become a collection of small projects that aim to create shortlists of potential transfer targets. So far, there is only one, Nearest_Player, which uses agglomerative clustering and nearest-neighbors algorithms to cluster strikers using FBRef data.
