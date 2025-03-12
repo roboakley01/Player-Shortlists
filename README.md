@@ -1,1 +1,1 @@
-This will become a collection of small projects that aim to create shortlists of potential transfer targets. So far, there is only one, Nearest_Player, which uses agglomerative clustering and nearest-neighbors algorithms to cluster strikers using FBRef data.
+Frequently, soccer clubs need to build a shortlist of players that match the player role they are looking to fill. I built a quite basic version of this using agglomerative clustering and nearest-neighbors algorithms to cluster strikers using FBRef data.
